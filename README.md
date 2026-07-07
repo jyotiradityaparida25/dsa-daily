@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
