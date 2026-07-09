@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
