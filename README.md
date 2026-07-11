@@ -23,6 +23,7 @@
 | [0053-maximum-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0057-insert-interval) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
