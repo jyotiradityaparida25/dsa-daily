@@ -21,6 +21,7 @@
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
@@ -39,6 +40,7 @@
 | [0018-4sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
