@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
@@ -73,6 +74,7 @@
 | [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
