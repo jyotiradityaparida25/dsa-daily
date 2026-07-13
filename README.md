@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
