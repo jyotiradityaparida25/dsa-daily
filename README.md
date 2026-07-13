@@ -30,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0018-4sum) |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0053-maximum-subarray) |
@@ -107,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
