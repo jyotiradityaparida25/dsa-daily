@@ -66,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
 ## Matrix
@@ -111,6 +113,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
