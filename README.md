@@ -34,6 +34,7 @@
 | [0015-3sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 ## Sorting
@@ -119,6 +120,7 @@
 | [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
