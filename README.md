@@ -108,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0038-count-and-say](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
