@@ -83,6 +83,7 @@
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0058-length-of-last-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
