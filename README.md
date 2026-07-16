@@ -126,6 +126,7 @@
 | [0032-longest-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0058-length-of-last-word) |
 ## Divide and Conquer
 |  |
 | ------- |
