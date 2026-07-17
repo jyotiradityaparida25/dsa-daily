@@ -67,6 +67,7 @@
 | [0046-permutations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0093-restore-ip-addresses) |
 ## Divide and Conquer
 |  |
 | ------- |
