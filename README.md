@@ -87,6 +87,7 @@
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
 ## Divide and Conquer
 |  |
 | ------- |
