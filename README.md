@@ -112,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
@@ -171,4 +172,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
