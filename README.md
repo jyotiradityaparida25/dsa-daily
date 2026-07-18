@@ -25,6 +25,7 @@
 | [0056-merge-intervals](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -88,6 +89,7 @@
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
 ## Stack
@@ -126,6 +128,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
