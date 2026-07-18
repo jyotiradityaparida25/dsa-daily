@@ -70,6 +70,7 @@
 | [0047-permutations-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
@@ -198,13 +200,16 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
