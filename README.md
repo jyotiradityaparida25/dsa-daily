@@ -93,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Matrix
 |  |
@@ -193,4 +195,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
