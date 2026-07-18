@@ -27,6 +27,7 @@
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -78,6 +79,7 @@
 | [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@
 | [0048-rotate-image](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
