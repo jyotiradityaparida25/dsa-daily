@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -65,6 +66,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
