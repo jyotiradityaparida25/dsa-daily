@@ -32,6 +32,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -46,6 +47,7 @@
 | [0031-next-permutation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
