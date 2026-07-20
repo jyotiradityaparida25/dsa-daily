@@ -37,6 +37,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -96,6 +97,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Combinatorics
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -241,4 +245,5 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
