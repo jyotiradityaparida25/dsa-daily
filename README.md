@@ -41,6 +41,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0120-triangle) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -121,6 +122,7 @@
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
