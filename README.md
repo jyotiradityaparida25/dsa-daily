@@ -111,6 +111,7 @@
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 ## Dynamic Programming
@@ -212,6 +213,7 @@
 | [0097-interleaving-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
@@ -292,6 +294,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 ## Trie
 |  |
