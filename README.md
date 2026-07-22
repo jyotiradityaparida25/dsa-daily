@@ -116,6 +116,7 @@
 | [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Matrix
 |  |
@@ -220,6 +222,7 @@
 | [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 ## Divide and Conquer
 |  |
 | ------- |
