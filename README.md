@@ -101,6 +101,7 @@
 | [0090-subsets-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 ## Stack
 |  |
@@ -214,6 +216,7 @@
 | [0115-distinct-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
