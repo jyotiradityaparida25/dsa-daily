@@ -50,6 +50,7 @@
 | [0136-single-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -153,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Matrix
