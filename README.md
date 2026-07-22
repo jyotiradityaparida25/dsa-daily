@@ -51,6 +51,7 @@
 | [0137-single-number-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -146,6 +147,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
