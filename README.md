@@ -66,6 +66,7 @@
 | [0213-house-robber-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -99,6 +100,7 @@
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
