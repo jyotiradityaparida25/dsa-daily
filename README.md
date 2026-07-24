@@ -63,6 +63,7 @@
 | [0198-house-robber](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -170,6 +171,7 @@
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0213-house-robber-ii) |
 ## Stack
 |  |
 | ------- |
