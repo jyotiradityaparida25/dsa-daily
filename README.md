@@ -61,6 +61,7 @@
 | [0179-largest-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -221,6 +222,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
@@ -288,6 +290,7 @@
 | ------- |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -328,11 +331,13 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
