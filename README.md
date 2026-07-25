@@ -72,6 +72,7 @@
 | [0228-summary-ranges](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0260-single-number-iii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -298,6 +299,7 @@
 | [0090-subsets-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
