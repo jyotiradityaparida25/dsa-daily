@@ -204,6 +204,7 @@
 | [0198-house-robber](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0189-rotate-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Matrix
@@ -301,6 +303,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,11 +359,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
