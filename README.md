@@ -75,6 +75,7 @@
 | [0260-single-number-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -124,6 +125,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
