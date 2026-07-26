@@ -113,6 +113,7 @@
 | [0179-largest-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
 ## Binary Search
@@ -171,6 +172,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -304,6 +306,7 @@
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
