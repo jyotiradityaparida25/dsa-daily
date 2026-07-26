@@ -293,6 +293,7 @@
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Linked List
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | ------- |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -427,6 +430,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
 ## Iterator
 |  |
