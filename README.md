@@ -76,6 +76,7 @@
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -409,4 +410,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
