@@ -77,6 +77,7 @@
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 | [0165-compare-version-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
 | ------- |
@@ -311,6 +314,7 @@
 | [0137-single-number-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
