@@ -80,6 +80,7 @@
 | [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0300-longest-increasing-subsequence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -134,6 +135,7 @@
 | [0275-h-index-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0300-longest-increasing-subsequence) |
 ## Interactive
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0213-house-robber-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
