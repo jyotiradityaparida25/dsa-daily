@@ -86,6 +86,7 @@
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Interactive
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Combinatorics
 |  |
 | ------- |
@@ -485,8 +488,18 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
