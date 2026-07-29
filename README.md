@@ -164,6 +164,7 @@
 | [0131-palindrome-partitioning](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
 ## Divide and Conquer
 |  |
@@ -380,6 +382,7 @@
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -403,6 +406,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,6 +421,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 ## Union-Find
 |  |
 | ------- |
