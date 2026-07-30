@@ -166,6 +166,7 @@
 | [0216-combination-sum-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
 ## Divide and Conquer
 |  |
@@ -444,6 +446,7 @@
 | [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0322-coin-change) |
 ## Trie
 |  |
