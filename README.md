@@ -189,6 +189,7 @@
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +338,7 @@
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
 ## Divide and Conquer
 |  |
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 ## Enumeration
 |  |
 | ------- |
