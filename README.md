@@ -93,6 +93,7 @@
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
@@ -113,6 +114,7 @@
 | [0189-rotate-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0324-wiggle-sort-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 | [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
