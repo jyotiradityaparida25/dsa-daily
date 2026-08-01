@@ -377,6 +377,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -418,6 +419,7 @@
 | [0054-spiral-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
+| [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
