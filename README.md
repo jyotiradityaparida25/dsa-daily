@@ -120,6 +120,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
+| [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [0344-reverse-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
+| [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 ## Divide and Conquer
 |  |
