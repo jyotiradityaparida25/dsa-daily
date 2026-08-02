@@ -144,6 +144,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
+| [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
+| [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3330-find-the-original-typed-string-i) |
 ## Divide and Conquer
