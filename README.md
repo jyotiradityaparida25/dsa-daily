@@ -28,6 +28,7 @@
 | [0063-unique-paths-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0075-sort-colors) |
@@ -362,6 +363,7 @@
 | [0058-length-of-last-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
@@ -441,6 +443,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
