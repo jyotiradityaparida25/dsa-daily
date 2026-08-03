@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0022-generate-parentheses) |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 ## Memoization
