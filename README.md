@@ -233,6 +233,7 @@
 | [0022-generate-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
@@ -292,6 +293,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -355,6 +357,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
@@ -463,6 +466,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 ## Memoization
