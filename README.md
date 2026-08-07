@@ -435,6 +435,7 @@
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
@@ -465,6 +466,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -661,4 +663,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
