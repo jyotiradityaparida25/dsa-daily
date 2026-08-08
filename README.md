@@ -446,6 +446,7 @@
 | [0520-detect-capital](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0551-student-attendance-record-i) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
