@@ -107,6 +107,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -253,6 +254,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -470,6 +472,7 @@
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
+| [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
