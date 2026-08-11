@@ -137,6 +137,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 ## Sorting
@@ -316,6 +317,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -473,6 +475,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
@@ -531,6 +534,7 @@
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
