@@ -444,6 +444,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
@@ -524,6 +525,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
@@ -693,10 +695,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -730,13 +734,19 @@
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
