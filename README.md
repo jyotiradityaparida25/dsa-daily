@@ -327,6 +327,7 @@
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -494,6 +495,7 @@
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
