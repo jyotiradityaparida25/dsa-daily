@@ -511,6 +511,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
