@@ -146,6 +146,7 @@
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
+| [1332-remove-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
@@ -514,6 +515,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1332-remove-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
