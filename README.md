@@ -349,6 +349,7 @@
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -521,6 +522,7 @@
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1417-reformat-the-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
