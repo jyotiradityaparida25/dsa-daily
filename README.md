@@ -341,6 +341,7 @@
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -532,6 +533,7 @@
 | [1496-path-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2264-largest-3-same-digit-number-in-string) |
