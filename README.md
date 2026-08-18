@@ -545,6 +545,7 @@
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3136-valid-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3330-find-the-original-typed-string-i) |
 ## Divide and Conquer
 |  |
