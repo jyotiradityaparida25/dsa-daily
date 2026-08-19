@@ -535,6 +535,7 @@
 | [1507-reformat-date](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
+| [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
