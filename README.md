@@ -106,6 +106,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
@@ -625,6 +626,7 @@
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 ## Depth-First Search
 |  |
 | ------- |
