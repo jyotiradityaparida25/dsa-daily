@@ -112,6 +112,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
@@ -292,6 +293,7 @@
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
