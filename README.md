@@ -136,6 +136,7 @@
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -442,6 +443,7 @@
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2525-categorize-box-according-to-criteria](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2525-categorize-box-according-to-criteria) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
@@ -651,6 +653,7 @@
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -776,6 +779,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
