@@ -76,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
@@ -191,6 +192,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
@@ -671,6 +673,7 @@
 | [0076-minimum-window-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 ## Depth-First Search
 |  |
@@ -751,6 +754,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
@@ -847,6 +851,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 ## Bidirectional Search
