@@ -74,6 +74,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0228-summary-ranges) |
@@ -189,6 +190,7 @@
 | [0179-largest-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
@@ -614,6 +616,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -784,6 +787,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -823,12 +827,14 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
@@ -840,6 +846,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 ## Bidirectional Search
@@ -889,4 +896,8 @@
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
