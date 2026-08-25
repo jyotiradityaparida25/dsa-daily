@@ -55,6 +55,7 @@
 | [0137-single-number-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -287,6 +288,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
@@ -442,6 +444,7 @@
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0168-excel-sheet-column-title) |
@@ -895,10 +898,12 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Quicksort
 |  |
@@ -925,4 +930,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
