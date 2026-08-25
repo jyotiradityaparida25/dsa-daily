@@ -142,6 +142,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
