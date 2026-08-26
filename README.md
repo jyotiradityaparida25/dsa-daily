@@ -471,6 +471,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2525-categorize-box-according-to-criteria](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2525-categorize-box-according-to-criteria) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
