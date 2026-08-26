@@ -131,6 +131,7 @@
 | [0896-monotonic-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -327,6 +328,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
@@ -943,4 +945,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
