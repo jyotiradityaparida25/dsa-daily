@@ -147,6 +147,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
@@ -340,6 +341,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2716-minimize-string-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
@@ -802,6 +804,7 @@
 | [1370-increasing-decreasing-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1370-increasing-decreasing-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
 ## Enumeration
