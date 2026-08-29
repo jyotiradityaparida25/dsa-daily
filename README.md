@@ -137,6 +137,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
@@ -231,6 +232,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -342,6 +344,7 @@
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -855,6 +858,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 ## Design
 |  |
 | ------- |
@@ -945,6 +949,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 ## Algorithm X
 |  |
 | ------- |
@@ -975,4 +980,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
