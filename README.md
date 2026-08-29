@@ -83,6 +83,7 @@
 | [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
@@ -216,6 +217,7 @@
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
@@ -319,6 +321,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0290-word-pattern) |
@@ -820,6 +823,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0383-ransom-note) |
@@ -991,4 +995,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
