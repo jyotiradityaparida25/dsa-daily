@@ -38,6 +38,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -381,6 +382,7 @@
 | [0064-minimum-path-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0096-unique-binary-search-trees) |
@@ -421,6 +423,7 @@
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
@@ -432,6 +435,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
 ## Prefix Sum
 |  |
@@ -511,6 +515,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
