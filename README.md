@@ -103,6 +103,7 @@
 | [0313-super-ugly-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
@@ -185,6 +186,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
@@ -433,6 +435,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
@@ -443,6 +446,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -463,6 +467,7 @@
 | [0135-candy](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
