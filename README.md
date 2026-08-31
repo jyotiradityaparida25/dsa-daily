@@ -129,6 +129,7 @@
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
@@ -540,6 +541,7 @@
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
