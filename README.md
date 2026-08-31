@@ -118,6 +118,7 @@
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
@@ -541,6 +542,7 @@
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -734,6 +736,7 @@
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
