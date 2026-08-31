@@ -153,6 +153,7 @@
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
@@ -545,6 +546,7 @@
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## String
