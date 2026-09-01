@@ -174,6 +174,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
 | [3033-modify-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3033-modify-the-matrix) |
@@ -386,6 +387,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
+| [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -539,6 +541,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2525-categorize-box-according-to-criteria](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2525-categorize-box-according-to-criteria) |
+| [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
@@ -772,6 +775,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
