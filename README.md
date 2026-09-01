@@ -151,6 +151,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
@@ -286,6 +287,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -563,6 +565,7 @@
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
