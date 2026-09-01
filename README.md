@@ -151,6 +151,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
@@ -537,6 +538,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
