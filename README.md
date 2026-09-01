@@ -160,6 +160,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -697,6 +698,7 @@
 | [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
