@@ -115,6 +115,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
@@ -252,6 +253,7 @@
 | [0389-find-the-difference](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
@@ -446,6 +448,7 @@
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -654,6 +657,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0482-license-key-formatting](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
@@ -809,6 +813,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 ## Linked List
 |  |
 | ------- |
@@ -879,6 +884,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
+| [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 ## Bucket Sort
 |  |
