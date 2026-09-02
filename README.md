@@ -634,6 +634,7 @@
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0306-additive-number) |
@@ -804,6 +805,7 @@
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -832,6 +834,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -847,6 +850,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -860,6 +864,7 @@
 | [0127-word-ladder](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
@@ -939,6 +944,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
