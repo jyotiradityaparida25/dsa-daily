@@ -452,6 +452,7 @@
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0639-decode-ways-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0639-decode-ways-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -676,6 +677,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0639-decode-ways-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
