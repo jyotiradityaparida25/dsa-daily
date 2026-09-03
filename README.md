@@ -540,6 +540,7 @@
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
+| [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
@@ -672,6 +673,7 @@
 | [0541-reverse-string-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
