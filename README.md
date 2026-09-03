@@ -449,6 +449,7 @@
 | [0392-is-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -466,6 +467,7 @@
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
+| [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
@@ -659,6 +661,7 @@
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0482-license-key-formatting](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0520-detect-capital) |
@@ -833,6 +836,7 @@
 | [0139-word-break](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 ## Tree
 |  |
 | ------- |
@@ -875,6 +879,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0322-coin-change) |
+| [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 ## Trie
 |  |
