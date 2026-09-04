@@ -179,6 +179,7 @@
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
@@ -225,6 +226,7 @@
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [1332-remove-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -804,6 +806,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
