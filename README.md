@@ -154,6 +154,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
