@@ -157,6 +157,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
@@ -269,6 +270,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -388,6 +390,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1496-path-crossing) |
@@ -971,6 +974,7 @@
 | ------- |
 | [0274-h-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
 | ------- |
