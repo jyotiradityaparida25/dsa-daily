@@ -268,6 +268,7 @@
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
+| [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -386,6 +387,7 @@
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
+| [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
@@ -493,6 +495,7 @@
 | [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0591-tag-validator) |
+| [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
@@ -707,6 +710,7 @@
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0696-count-binary-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0696-count-binary-substrings) |
+| [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0796-rotate-string) |
