@@ -198,6 +198,7 @@
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -603,6 +604,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
