@@ -600,6 +600,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2544-alternating-digit-sum) |
