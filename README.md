@@ -569,6 +569,7 @@
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
@@ -835,6 +836,7 @@
 | [0054-spiral-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
@@ -988,6 +990,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
