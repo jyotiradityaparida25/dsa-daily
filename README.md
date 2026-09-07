@@ -586,6 +586,7 @@
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
