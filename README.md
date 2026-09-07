@@ -765,6 +765,7 @@
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
@@ -846,6 +847,7 @@
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
