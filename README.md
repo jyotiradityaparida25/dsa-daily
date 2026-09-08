@@ -608,6 +608,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -868,6 +869,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
+| [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
