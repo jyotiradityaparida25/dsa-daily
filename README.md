@@ -162,6 +162,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -879,6 +880,7 @@
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
