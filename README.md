@@ -419,6 +419,7 @@
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
+| [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
@@ -533,6 +534,7 @@
 | [0591-tag-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0591-tag-validator) |
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
@@ -612,6 +614,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
+| [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
@@ -767,6 +770,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
 | [0761-special-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0761-special-binary-string) |
+| [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0796-rotate-string) |
@@ -944,6 +948,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 ## Memoization
 |  |
 | ------- |
