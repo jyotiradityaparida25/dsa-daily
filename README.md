@@ -290,6 +290,7 @@
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0761-special-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -765,6 +766,7 @@
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
+| [0761-special-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0796-rotate-string) |
@@ -844,6 +846,7 @@
 | [0324-wiggle-sort-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0761-special-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
