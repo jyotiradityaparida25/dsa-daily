@@ -131,6 +131,7 @@
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
@@ -416,6 +417,7 @@
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
+| [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
@@ -761,6 +763,7 @@
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0736-parse-lisp-expression) |
+| [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0796-rotate-string) |
@@ -999,6 +1002,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
+| [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 ## Bucket Sort
 |  |
@@ -1078,6 +1082,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
+| [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 ## Iterator
 |  |
 | ------- |
