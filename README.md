@@ -138,6 +138,7 @@
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 | [0860-lemonade-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0278-first-bad-version) |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 ## Backtracking
 |  |
 | ------- |
@@ -619,6 +621,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
 | [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
@@ -784,6 +787,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0830-positions-of-large-groups) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1245,4 +1249,12 @@
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
+## Minimax
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->
