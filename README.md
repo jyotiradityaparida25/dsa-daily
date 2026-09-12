@@ -428,6 +428,7 @@
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
+| [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -789,6 +790,7 @@
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
+| [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
@@ -1016,6 +1018,7 @@
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
+| [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 ## Trie
 |  |
 | ------- |
