@@ -295,6 +295,7 @@
 | [0761-special-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
+| [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
@@ -623,6 +624,7 @@
 | [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
 | [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
+| [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
@@ -793,6 +795,7 @@
 | [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
@@ -1260,4 +1263,8 @@
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
