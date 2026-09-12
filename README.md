@@ -423,6 +423,7 @@
 | [0771-jewels-and-stones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -515,6 +516,7 @@
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0730-count-different-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0730-count-different-palindromic-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
@@ -777,6 +779,7 @@
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0824-goat-latin) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
