@@ -200,6 +200,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
@@ -462,6 +463,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
@@ -846,6 +848,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
@@ -911,6 +914,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -1079,6 +1083,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
