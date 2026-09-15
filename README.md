@@ -114,6 +114,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
@@ -417,6 +418,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0389-find-the-difference) |
@@ -630,6 +632,7 @@
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
@@ -1145,6 +1148,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 ## Iterator
 |  |
@@ -1303,4 +1307,8 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
