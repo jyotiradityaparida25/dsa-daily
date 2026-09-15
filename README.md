@@ -111,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -342,6 +343,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -572,6 +574,7 @@
 | [0238-product-of-array-except-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -683,6 +686,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
@@ -1182,6 +1186,7 @@
 | [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bidirectional Search
 |  |
 | ------- |
