@@ -464,6 +464,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -857,6 +858,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1816-truncate-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
