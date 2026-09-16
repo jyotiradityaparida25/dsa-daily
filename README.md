@@ -670,6 +670,7 @@
 | [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -886,6 +887,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3136-valid-word) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3330-find-the-original-typed-string-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3330-find-the-original-typed-string-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3884-first-matching-character-from-both-ends) |
