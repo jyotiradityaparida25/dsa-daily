@@ -605,6 +605,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
@@ -865,6 +866,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
@@ -1117,6 +1119,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
