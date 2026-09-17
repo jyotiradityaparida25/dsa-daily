@@ -180,6 +180,7 @@
 | [1470-shuffle-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -314,6 +315,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
