@@ -109,6 +109,7 @@
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -649,6 +650,7 @@
 | [0273-integer-to-english-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0313-super-ugly-number) |
+| [0335-self-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
@@ -1295,6 +1297,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0335-self-crossing) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1232-check-if-it-is-a-straight-line) |
