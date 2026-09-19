@@ -189,6 +189,7 @@
 | [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
