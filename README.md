@@ -188,6 +188,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
@@ -361,6 +362,7 @@
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
