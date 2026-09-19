@@ -879,6 +879,7 @@
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1592-rearrange-spaces-between-words) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
