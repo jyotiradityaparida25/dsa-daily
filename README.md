@@ -186,6 +186,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -470,6 +471,7 @@
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1496-path-crossing) |
+| [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -675,6 +677,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -1132,6 +1135,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1370-increasing-decreasing-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
