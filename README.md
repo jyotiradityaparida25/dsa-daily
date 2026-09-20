@@ -486,6 +486,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -903,6 +904,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -1022,6 +1024,7 @@
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1151,6 +1154,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
