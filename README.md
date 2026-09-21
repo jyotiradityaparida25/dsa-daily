@@ -487,6 +487,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -909,6 +910,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
