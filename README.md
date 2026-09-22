@@ -150,6 +150,7 @@
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0896-monotonic-array) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -367,6 +368,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1539-kth-missing-positive-number) |
@@ -569,6 +571,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0730-count-different-palindromic-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -683,6 +686,7 @@
 | [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
 | [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
@@ -861,6 +865,7 @@
 | [0859-buddy-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
