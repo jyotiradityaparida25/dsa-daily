@@ -572,6 +572,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -614,6 +615,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
@@ -866,6 +868,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
