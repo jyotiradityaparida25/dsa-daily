@@ -123,6 +123,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
@@ -566,6 +567,7 @@
 | [0392-is-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
