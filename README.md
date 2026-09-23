@@ -127,6 +127,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
@@ -453,6 +454,7 @@
 | [0409-longest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1059,6 +1061,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -1224,6 +1227,7 @@
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1426,4 +1430,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
