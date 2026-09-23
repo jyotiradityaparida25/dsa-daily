@@ -121,6 +121,7 @@
 | [0391-perfect-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
@@ -367,6 +368,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
@@ -563,6 +565,7 @@
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
@@ -618,6 +621,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -641,6 +645,7 @@
 | [0324-wiggle-sort-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
