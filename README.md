@@ -119,6 +119,7 @@
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0391-perfect-rectangle) |
+| [0403-frog-jump](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
@@ -560,6 +561,7 @@
 | [0368-largest-divisible-subset](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0403-frog-jump) |
 | [0466-count-the-repetitions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
