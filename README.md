@@ -211,6 +211,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -511,6 +512,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -961,6 +963,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -1215,6 +1218,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
