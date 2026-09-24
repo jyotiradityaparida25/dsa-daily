@@ -215,6 +215,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -951,6 +952,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
