@@ -135,6 +135,7 @@
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
+| [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -712,6 +713,7 @@
 | [0504-base-7](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0507-perfect-number) |
 | [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
 | [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
@@ -1399,6 +1401,7 @@
 | [0149-max-points-on-a-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -1465,4 +1468,12 @@
 | ------- |
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
