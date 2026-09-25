@@ -132,6 +132,7 @@
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -586,6 +587,7 @@
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0639-decode-ways-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
@@ -1123,6 +1125,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 ## Tree
 |  |
