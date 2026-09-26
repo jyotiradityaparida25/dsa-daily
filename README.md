@@ -140,6 +140,7 @@
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -332,6 +333,7 @@
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -473,6 +475,7 @@
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
@@ -673,6 +676,7 @@
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0860-lemonade-change) |
 | [0936-stamping-the-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0936-stamping-the-sequence) |
@@ -1094,6 +1098,7 @@
 | [0220-contains-duplicate-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -1265,6 +1270,7 @@
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
