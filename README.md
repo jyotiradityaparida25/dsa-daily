@@ -144,6 +144,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
@@ -787,6 +788,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
@@ -1189,6 +1191,7 @@
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 ## Trie
@@ -1271,6 +1274,7 @@
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
