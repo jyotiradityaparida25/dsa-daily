@@ -206,6 +206,7 @@
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1640-check-array-formation-through-concatenation) |
+| [1646-get-maximum-in-generated-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
@@ -1068,6 +1069,7 @@
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1389-create-target-array-in-the-given-order) |
+| [1646-get-maximum-in-generated-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
