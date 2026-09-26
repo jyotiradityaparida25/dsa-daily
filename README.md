@@ -205,6 +205,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1640-check-array-formation-through-concatenation) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
@@ -505,6 +506,7 @@
 | [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1640-check-array-formation-through-concatenation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
