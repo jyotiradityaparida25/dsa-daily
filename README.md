@@ -145,6 +145,7 @@
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
@@ -428,6 +429,7 @@
 | [0282-expression-add-operators](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Hash Table
@@ -726,6 +728,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0728-self-dividing-numbers) |
 | [0770-basic-calculator-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0770-basic-calculator-iv) |
 | [0843-guess-the-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0843-guess-the-word) |
