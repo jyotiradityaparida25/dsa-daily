@@ -213,6 +213,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1732-find-the-highest-altitude](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1816-truncate-sentence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -659,6 +660,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
