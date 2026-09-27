@@ -215,6 +215,7 @@
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1816-truncate-sentence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
