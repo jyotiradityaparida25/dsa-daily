@@ -760,6 +760,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -1273,12 +1274,14 @@
 | ------- |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
 | [0906-super-palindromes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0906-super-palindromes) |
+| [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
@@ -1515,4 +1518,12 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0587-erect-the-fence) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
