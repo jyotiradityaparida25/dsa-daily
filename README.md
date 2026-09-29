@@ -172,6 +172,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
 | [1037-valid-boomerang](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1037-valid-boomerang) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -949,6 +950,7 @@
 | [0972-equal-rational-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0972-equal-rational-numbers) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1078-occurrences-after-bigram) |
@@ -1240,6 +1242,7 @@
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1341,6 +1344,7 @@
 | [0307-range-sum-query-mutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0307-range-sum-query-mutable) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
 ## Iterator
 |  |
 | ------- |
@@ -1545,4 +1549,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
+## Data Stream
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
