@@ -165,6 +165,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
@@ -617,6 +618,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0940-distinct-subsequences-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -942,6 +944,7 @@
 | [0936-stamping-the-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0944-delete-columns-to-make-sorted) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
