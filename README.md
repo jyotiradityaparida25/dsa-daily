@@ -948,6 +948,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0972-equal-rational-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0972-equal-rational-numbers) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1078-occurrences-after-bigram) |
@@ -1149,6 +1150,7 @@
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -1184,6 +1186,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1200,6 +1203,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
