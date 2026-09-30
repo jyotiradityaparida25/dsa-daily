@@ -354,6 +354,7 @@
 | [0899-orderly-queue](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0899-orderly-queue) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -441,6 +442,7 @@
 | [0306-additive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0306-additive-number) |
 | [0679-24-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Hash Table
 |  |
@@ -508,6 +510,7 @@
 | [0929-unique-email-addresses](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
@@ -646,6 +649,7 @@
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0936-stamping-the-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0936-stamping-the-sequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
@@ -958,6 +962,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1078-occurrences-after-bigram) |
 | [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1236,6 +1241,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
+| [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
