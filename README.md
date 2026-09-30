@@ -403,6 +403,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0888-fair-candy-swap) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1539-kth-missing-positive-number) |
@@ -951,6 +952,7 @@
 | [1002-find-common-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1002-find-common-characters) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1078-occurrences-after-bigram) |
@@ -1136,6 +1138,7 @@
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
@@ -1354,11 +1357,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1405,6 +1410,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0459-repeated-substring-pattern) |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -1557,4 +1563,20 @@
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
