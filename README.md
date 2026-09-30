@@ -621,6 +621,7 @@
 | [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -956,6 +957,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1078-occurrences-after-bigram) |
+| [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1579,4 +1581,8 @@
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
