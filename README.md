@@ -221,6 +221,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
