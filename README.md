@@ -305,6 +305,7 @@
 | [0917-reverse-only-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0925-long-pressed-name) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1332-remove-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -978,6 +979,7 @@
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1154-day-of-the-year](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1189-maximum-number-of-balloons](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -1608,4 +1610,8 @@
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
