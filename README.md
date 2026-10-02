@@ -1117,6 +1117,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1018-binary-prefix-divisible-by-5) |
