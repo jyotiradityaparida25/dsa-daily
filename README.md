@@ -256,6 +256,7 @@
 | [2644-find-the-maximum-divisibility-score](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2942-find-words-containing-character) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3033-modify-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3033-modify-the-matrix) |
@@ -1122,6 +1123,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |
