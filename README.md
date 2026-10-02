@@ -787,6 +787,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2413-smallest-even-multiple](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -1043,6 +1044,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
@@ -1166,6 +1168,7 @@
 | [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Depth-First Search
 |  |
 | ------- |
