@@ -637,6 +637,7 @@
 | [1092-shortest-common-supersequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1092-shortest-common-supersequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
@@ -988,6 +989,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1332-remove-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
