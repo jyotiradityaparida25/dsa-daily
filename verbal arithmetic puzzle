@@ -1,0 +1,74 @@
+class Solution:
+    def isSolvable(self, words: list[str], result: str) -> bool:
+        all_words = words + [result]
+        max_len = max(len(w) for w in all_words)
+        
+        if len(result) < max_len:
+            return False
+            
+        non_zero = set()
+        for w in all_words:
+            if len(w) > 1:
+                non_zero.add(w[0])
+                
+        reversed_words = [w[::-1] for w in words]
+        reversed_result = result[::-1]
+        
+        used_digits = [False] * 10
+        char_to_digit = {}
+        
+        def backtrack(column: int, word_idx: int, carry: int) -> bool:
+            if column == max_len:
+                return carry == 0
+                
+            if word_idx == len(reversed_words):
+                res_char = reversed_result[column] if column < len(reversed_result) else None
+                target_digit = carry % 10
+                next_carry = carry // 10
+                
+                if res_char in char_to_digit:
+                    if char_to_digit[res_char] == target_digit:
+                        return backtrack(column + 1, 0, next_carry)
+                    return False
+                else:
+                    if used_digits[target_digit]:
+                        return False
+                    if target_digit == 0 and res_char in non_zero:
+                        return False
+                        
+                    char_to_digit[res_char] = target_digit
+                    used_digits[target_digit] = True
+                    
+                    if backtrack(column + 1, 0, next_carry):
+                        return True
+                        
+                    del char_to_digit[res_char]
+                    used_digits[target_digit] = False
+                    return False
+
+            curr_word = reversed_words[word_idx]
+            
+            if column >= len(curr_word):
+                return backtrack(column, word_idx + 1, carry)
+                
+            char = curr_word[column]
+            
+            if char in char_to_digit:
+                return backtrack(column, word_idx + 1, carry + char_to_digit[char])
+            else:
+                for d in range(10):
+                    if used_digits[d] or (d == 0 and char in non_zero):
+                        continue
+                        
+                    char_to_digit[char] = d
+                    used_digits[d] = True
+                    
+                    if backtrack(column, word_idx + 1, carry + d):
+                        return True
+                        
+                    del char_to_digit[char]
+                    used_digits[d] = False
+                    
+                return False
+
+        return backtrack(0, 0, 0)
