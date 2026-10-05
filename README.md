@@ -269,6 +269,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
@@ -1171,6 +1172,7 @@
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
