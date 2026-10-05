@@ -667,6 +667,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1058,6 +1059,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
@@ -1161,6 +1163,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
 | [2810-faulty-keyboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2960-count-tested-devices-after-test-operations) |
