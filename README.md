@@ -724,6 +724,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1007,6 +1008,7 @@
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1496-path-crossing) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1507-reformat-date](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
@@ -1436,6 +1438,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1444,6 +1447,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Merge Sort
 |  |
 | ------- |
