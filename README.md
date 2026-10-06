@@ -641,6 +641,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1397-find-all-good-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1397-find-all-good-strings) |
+| [1416-restore-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1416-restore-the-array) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
@@ -1000,6 +1001,7 @@
 | [1392-longest-happy-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1392-longest-happy-prefix) |
 | [1397-find-all-good-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1397-find-all-good-strings) |
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
+| [1416-restore-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1416-restore-the-array) |
 | [1417-reformat-the-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1436-destination-city) |
