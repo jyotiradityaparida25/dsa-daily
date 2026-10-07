@@ -644,6 +644,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1397-find-all-good-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1397-find-all-good-strings) |
 | [1416-restore-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1416-restore-the-array) |
+| [1531-string-compression-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1531-string-compression-ii) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
@@ -1015,6 +1016,7 @@
 | [1507-reformat-date](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1507-reformat-date) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
+| [1531-string-compression-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1531-string-compression-ii) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
