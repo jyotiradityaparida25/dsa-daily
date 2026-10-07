@@ -373,6 +373,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -730,6 +731,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1022,6 +1024,7 @@
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1592-rearrange-spaces-between-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1592-rearrange-spaces-between-words) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1629-slowest-key) |
