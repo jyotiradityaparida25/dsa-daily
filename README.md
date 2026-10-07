@@ -648,6 +648,7 @@
 | [1416-restore-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1416-restore-the-array) |
 | [1531-string-compression-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1531-string-compression-ii) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
+| [1745-palindrome-partitioning-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1745-palindrome-partitioning-iv) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
@@ -1033,6 +1034,7 @@
 | [1678-goal-parser-interpretation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1745-palindrome-partitioning-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1768-merge-strings-alternately) |
