@@ -535,6 +535,7 @@
 | [1496-path-crossing](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1542-find-longest-awesome-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1542-find-longest-awesome-substring) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1640-check-array-formation-through-concatenation) |
@@ -1017,6 +1018,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1528-shuffle-string) |
 | [1531-string-compression-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1531-string-compression-ii) |
+| [1542-find-longest-awesome-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1542-find-longest-awesome-substring) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -1147,6 +1149,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1542-find-longest-awesome-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1542-find-longest-awesome-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
