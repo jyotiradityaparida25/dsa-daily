@@ -130,6 +130,7 @@
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
@@ -350,6 +351,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
@@ -721,6 +723,7 @@
 | [0409-longest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1393,6 +1396,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
