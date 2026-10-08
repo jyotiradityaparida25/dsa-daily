@@ -132,6 +132,7 @@
 | [0500-keyboard-row](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
@@ -724,6 +725,7 @@
 | [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
