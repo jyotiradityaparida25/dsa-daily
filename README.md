@@ -278,6 +278,7 @@
 | [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -1392,6 +1393,7 @@
 | [0906-super-palindromes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0906-super-palindromes) |
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
 | ------- |
