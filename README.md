@@ -236,6 +236,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
