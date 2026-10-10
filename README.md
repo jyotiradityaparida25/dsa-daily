@@ -234,6 +234,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -565,6 +566,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -1179,6 +1181,7 @@
 | [1542-find-longest-awesome-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1542-find-longest-awesome-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
+| [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2506-count-pairs-of-similar-strings) |
