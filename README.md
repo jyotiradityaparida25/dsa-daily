@@ -285,6 +285,7 @@
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -1124,6 +1125,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3330-find-the-original-typed-string-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1229,6 +1231,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
+| [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
