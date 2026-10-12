@@ -565,6 +565,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -827,6 +828,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1076,6 +1078,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1816-truncate-sentence) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1859-sorting-the-sentence) |
@@ -1155,6 +1158,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0062-unique-paths) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -1393,6 +1397,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -1715,4 +1720,8 @@
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1163-last-substring-in-lexicographical-order) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 <!---LeetCode Topics End-->
