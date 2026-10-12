@@ -275,6 +275,7 @@
 | [3033-modify-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3033-modify-the-matrix) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
@@ -842,6 +843,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
