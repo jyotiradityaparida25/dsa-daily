@@ -673,6 +673,7 @@
 | [1531-string-compression-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1531-string-compression-ii) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [1745-palindrome-partitioning-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1745-palindrome-partitioning-iv) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
@@ -1067,6 +1068,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1768-merge-strings-alternately) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
