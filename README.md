@@ -247,6 +247,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -1105,6 +1106,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -1172,6 +1174,7 @@
 | [1408-string-matching-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
