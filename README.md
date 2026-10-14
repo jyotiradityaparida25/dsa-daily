@@ -289,6 +289,7 @@
 | [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
@@ -607,6 +608,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1445,6 +1447,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3046-split-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3046-split-the-array) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Enumeration
 |  |
 | ------- |
