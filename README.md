@@ -228,6 +228,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1929-concatenation-of-array) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -395,6 +396,7 @@
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1859-sorting-the-sentence) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -576,6 +578,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1099,6 +1102,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1289,6 +1293,7 @@
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Linked List
 |  |
 | ------- |
@@ -1382,6 +1387,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [1032-stream-of-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1032-stream-of-characters) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1514,6 +1520,7 @@
 | [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1392-longest-happy-prefix) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Binary Indexed Tree
 |  |
 | ------- |
