@@ -568,6 +568,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -678,6 +679,7 @@
 | [1668-maximum-repeating-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1668-maximum-repeating-substring) |
 | [1745-palindrome-partitioning-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1745-palindrome-partitioning-iv) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1771-maximize-palindrome-length-from-subsequences) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
@@ -1084,6 +1086,7 @@
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1844-replace-all-digits-with-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1859-sorting-the-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -1307,6 +1310,7 @@
 | [0488-zuma-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -1406,6 +1410,7 @@
 | [1748-sum-of-unique-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -1641,6 +1646,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1673,10 +1679,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Treap
 |  |
 | ------- |
