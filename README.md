@@ -151,6 +151,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
+| [0699-falling-squares](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0699-falling-squares) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
@@ -1550,6 +1551,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0699-falling-squares) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Merge Sort
 |  |
@@ -1566,6 +1568,7 @@
 | [0327-count-of-range-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0699-falling-squares) |
 ## Bidirectional Search
 |  |
 | ------- |
