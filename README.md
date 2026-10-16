@@ -156,6 +156,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0745-prefix-and-suffix-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0749-contain-virus](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0819-most-common-word) |
@@ -901,6 +902,7 @@
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0749-contain-virus](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1030-matrix-cells-in-distance-order) |
@@ -1243,6 +1245,7 @@
 | [0412-fizz-buzz](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0566-reshape-the-matrix) |
+| [0749-contain-virus](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0749-contain-virus) |
 | [0844-backspace-string-compare](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1301,6 +1304,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
+| [0749-contain-virus](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -1383,6 +1387,7 @@
 | [0514-freedom-trail](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0542-01-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0749-contain-virus](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0749-contain-virus) |
 | [0839-similar-string-groups](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0854-k-similar-strings) |
 | [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
