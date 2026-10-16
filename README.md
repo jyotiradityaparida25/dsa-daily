@@ -148,6 +148,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0679-24-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
@@ -671,6 +672,7 @@
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0639-decode-ways-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [0730-count-different-palindromic-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0730-count-different-palindromic-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0792-number-of-matching-subsequences) |
@@ -736,6 +738,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0410-split-array-largest-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -1279,6 +1282,7 @@
 | [0480-sliding-window-median](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
