@@ -696,6 +696,7 @@
 | [1745-palindrome-partitioning-iv](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1745-palindrome-partitioning-iv) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1987-number-of-unique-good-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1987-number-of-unique-good-subsequences) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
@@ -1118,6 +1119,7 @@
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1987-number-of-unique-good-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1987-number-of-unique-good-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
