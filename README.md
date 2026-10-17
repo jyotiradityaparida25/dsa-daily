@@ -336,6 +336,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1768-merge-strings-alternately) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -1114,6 +1115,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
@@ -1530,6 +1532,7 @@
 | [1044-longest-duplicate-substring](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1392-longest-happy-prefix) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Hash Function
 |  |
 | ------- |
@@ -1539,6 +1542,7 @@
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1392-longest-happy-prefix) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1606,6 +1610,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1776,4 +1781,8 @@
 |  |
 | ------- |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
