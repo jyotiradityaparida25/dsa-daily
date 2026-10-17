@@ -339,6 +339,7 @@
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -485,6 +486,7 @@
 | [1096-brace-expansion-ii](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1096-brace-expansion-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1655-distribute-repeating-integers) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -586,6 +588,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -1122,6 +1125,7 @@
 | [1987-number-of-unique-good-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1987-number-of-unique-good-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1446,6 +1450,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -1468,6 +1473,7 @@
 | [0204-count-primes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0204-count-primes) |
 | [0906-super-palindromes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0906-super-palindromes) |
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3880-minimum-absolute-difference-between-two-values) |
