@@ -242,6 +242,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2057-smallest-index-with-equal-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -488,6 +489,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1655-distribute-repeating-integers) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 ## Hash Table
 |  |
 | ------- |
@@ -1139,6 +1141,7 @@
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -1273,6 +1276,7 @@
 | [1929-concatenation-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
