@@ -239,6 +239,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2057-smallest-index-with-equal-value) |
@@ -589,6 +590,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2032-two-out-of-three](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -700,6 +702,7 @@
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1987-number-of-unique-good-subsequences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1987-number-of-unique-good-subsequences) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
@@ -727,6 +730,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -858,6 +862,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -1126,6 +1131,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1344,6 +1350,7 @@
 | [0546-remove-boxes](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0691-stickers-to-spell-word) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Tree
 |  |
 | ------- |
