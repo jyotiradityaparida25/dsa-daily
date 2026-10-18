@@ -731,6 +731,7 @@
 | [1544-make-the-string-great](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -741,6 +742,7 @@
 | [0316-remove-duplicate-letters](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0321-create-maximum-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -793,6 +795,7 @@
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -1133,6 +1136,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2027-minimum-moves-to-convert-string) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2062-count-vowel-substrings-of-a-string) |
