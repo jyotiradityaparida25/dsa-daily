@@ -1319,6 +1319,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1368,6 +1369,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -1385,6 +1387,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1028-recover-a-tree-from-preorder-traversal) |
