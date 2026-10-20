@@ -274,6 +274,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
+| [2574-left-and-right-sum-differences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -765,6 +766,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
