@@ -275,6 +275,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
@@ -880,6 +881,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2739-total-distance-traveled) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -929,6 +931,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## String
@@ -1506,6 +1509,7 @@
 | [1952-three-divisors](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
