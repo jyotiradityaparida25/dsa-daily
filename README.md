@@ -279,6 +279,7 @@
 | [2614-prime-in-diagonal](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2614-prime-in-diagonal) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2678-number-of-senior-citizens) |
+| [2733-neither-minimum-nor-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2733-neither-minimum-nor-maximum) |
 | [2788-split-strings-by-separator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2788-split-strings-by-separator) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2942-find-words-containing-character) |
@@ -417,6 +418,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2733-neither-minimum-nor-maximum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3731-find-missing-elements) |
 ## Binary Search
