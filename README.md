@@ -1183,6 +1183,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 ## Divide and Conquer
@@ -1294,6 +1295,7 @@
 | [3248-snake-in-matrix](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3921-score-validator](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/jyotiradityaparida25/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
